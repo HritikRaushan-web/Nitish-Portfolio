@@ -1,0 +1,29 @@
+[
+  {
+    "id": "msg_1794465515441",
+    "name": "Hiring Lead",
+    "email": "lead@tech.co",
+    "subject": "Portfolio Inquiry",
+    "message": "Ready to build with Hritik!",
+    "timestamp": "2026-11-12T06:38:35.441Z",
+    "status": "unread"
+  },
+  {
+    "id": "msg_1794464149558",
+    "name": "Google Recruiter",
+    "email": "recruiter@google.com",
+    "subject": "Interview Loop for Senior Full Stack Engineer",
+    "message": "Hello Hritik, we are extremely impressed by your streaming portfolio and engineering work!",
+    "timestamp": "2026-11-12T06:15:49.558Z",
+    "status": "unread"
+  },
+  {
+    "id": "msg_sample_1",
+    "name": "Sarah Recruiter",
+    "email": "sarah.recruiter@techventures.io",
+    "subject": "Senior Full Stack Engineer Opportunity",
+    "message": "Hi Hritik, your Netflix-style portfolio is breathtaking! We are looking for a Senior Full Stack Engineer with strong React and Node.js microservices skills. Would love to chat!",
+    "timestamp": "2026-11-10T14:30:00.000Z",
+    "status": "unread"
+  }
+]
